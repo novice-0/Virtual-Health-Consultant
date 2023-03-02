@@ -11,7 +11,7 @@ if __name__ == "__main__":
         "- [Disease Diagnosis](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset)"
     )
     st.markdown(
-        "- [Disease information](https://github.com/Gladiator07/Healthify/blob/main/data/disease.json)"
+        "- [Disease information](https://github.com/novice-0/Virtual-Health-Consultant/blob/main/data/disease.json)"
     )
     st.markdown(
         "- [Early Diabetes Diagnosis](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.)"
